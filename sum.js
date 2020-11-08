@@ -1,4 +1,4 @@
-const num1 = parseInt(prompt('Enter the first number '));
-const num2 = parseInt(prompt('Enter the second number '));
-const sum = num1 + num2;
-console.log(`The sum of ${num1} and ${num2} is ${sum}`);
+const functions = {
+  add: (num3, num4) => num3+num4
+}
+module.exports = functions;
