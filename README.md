@@ -13,4 +13,3 @@ function sum(a, b){
 }
 ...
 
-## Options
