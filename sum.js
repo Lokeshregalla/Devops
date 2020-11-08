@@ -1,4 +1,4 @@
 const functions = {
-  add: (num5, num6) => num5 - num6
+  add: (num7, num8) => num7 * num8
 }
 module.exports = functions;
