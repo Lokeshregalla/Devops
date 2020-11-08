@@ -1,4 +1,5 @@
-const functions = {
-  add: (num3, num4) => num3 + num4
+const functionz = {
+  add: (num7, num8) => num7 * num8
 }
-module.exports = functions;
+module.exports = functionz;
+
